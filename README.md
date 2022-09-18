@@ -1,4 +1,4 @@
-# ankit-frt-project
+# Grocery store website: Green Grocers
 This is my final project submission for the Microsoft Future Ready Talent Internship. Created a grocery web app.
 
 I deployed the code on Static Web App Azure service. Here is the link: https://gentle-coast-09f24e810.1.azurestaticapps.net/
